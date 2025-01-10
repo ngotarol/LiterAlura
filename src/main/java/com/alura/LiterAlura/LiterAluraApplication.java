@@ -13,6 +13,7 @@ import java.util.Scanner;
 
 @SpringBootApplication
 public class LiterAluraApplication implements CommandLineRunner {
+	/// Creado por Natalia Otarola para Challenge LiterAlura
 
 	@Autowired
 	private AutorRepository autorRepository;
